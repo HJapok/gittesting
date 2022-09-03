@@ -6,3 +6,5 @@ h=5
 j=7
 u=h+j
 print(u)
+p=6
+print(u+p)
