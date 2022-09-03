@@ -4,5 +4,5 @@ print(y+x)
 
 h=5
 j=7
-u=h+j
+u=h+j+9
 print(u)
