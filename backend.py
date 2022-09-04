@@ -7,5 +7,5 @@ j=7
 u=h+j+9
 print(u)
 p=6
-print(u+p)
+print(u+p+7)
 
